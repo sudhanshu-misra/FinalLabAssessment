@@ -1,11 +1,2 @@
 Flask==2.3.3
-python-dotenv==1.0.0
-Flask-WTF==1.1.1            # For handling forms securely
-Flask-Login==0.6.3          # User session management
-Flask-Migrate==4.0.4        # Database migrations (SQLAlchemy)
-Flask-SQLAlchemy==3.0.3     # ORM for database
-Flask-Cors==3.1.1           # Handle Cross-Origin Resource Sharing
-requests==2.31.0            # For making HTTP requests
-Jinja2==3.1.3               # Templating engine (usually comes with Flask)
-Werkzeug==2.3.6             # WSGI utility (comes with Flask)
-itsdangerous==2.1.2         # Security helpers (comes with Flask)
+python-dotenv==1.0.0      
